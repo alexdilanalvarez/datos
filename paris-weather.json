@@ -1,0 +1,117 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2017-10-27T20:29:10Z",
+    "lang": "es",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Paris, Ile-de-France, FR",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-615702/",
+        "description": "Yahoo! Weather for Paris, Ile-de-France, FR",
+        "language": "en-us",
+        "lastBuildDate": "Fri, 27 Oct 2017 10:29 PM CEST",
+        "ttl": "60",
+        "location": {
+          "city": "Paris",
+          "country": "France",
+          "region": " Ile-de-France"
+        },
+        "wind": {
+          "chill": "54",
+          "direction": "10",
+          "speed": "11"
+        },
+        "atmosphere": {
+          "humidity": "62",
+          "pressure": "1026.0",
+          "rising": "0",
+          "visibility": "16.1"
+        },
+        "astronomy": {
+          "sunrise": "8:30 am",
+          "sunset": "6:38 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Paris, Ile-de-France, FR at 09:00 PM CEST",
+          "lat": "48.85693",
+          "long": "2.3412",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-615702/",
+          "pubDate": "Fri, 27 Oct 2017 09:00 PM CEST",
+          "condition": {
+            "code": "33",
+            "date": "Fri, 27 Oct 2017 09:00 PM CEST",
+            "temp": "55",
+            "text": "Mostly Clear"
+          },
+          "forecast": [{
+            "code": "28",
+            "date": "facultad de medicina",
+            "day": "Fri",
+            "high": "61",
+            "low": "52",
+            "text": "Mostly Cloudy"
+          }, {
+            "code": "26",
+            "date": "facultad de programacion",
+            "day": "Sun",
+            "high": "59",
+            "low": "49",
+            "text": "Cloudy"
+          }, {
+            "code": "30",
+            "date": "facultad de ciencias",
+            "day": "Mon",
+            "high": "55",
+            "low": "43",
+            "text": "Partly Cloudy"
+          }, {
+            "code": "28",
+            "date": "facultad del deporte",
+            "day": "Tue",
+            "high": "57",
+            "low": "40",
+            "text": "Mostly Cloudy"
+          }, {
+            "code": "26",
+            "date": "DIlan",
+            "day": "Wed",
+            "high": "58",
+            "low": "45",
+            "text": "Cloudy"
+          }, {
+            "code": "28",
+            "date": "hola",
+            "day": "Thu",
+            "high": "60",
+            "low": "49",
+            "text": "Mostly Cloudy"
+          }, {
+            "code": "28",
+            "date": "roca",
+            "day": "Sun",
+            "high": "56",
+            "low": "47",
+            "text": "Mostly Cloudy"
+          }],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/33.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Mostly Clear\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Fri - Mostly Cloudy. High: 61Low: 52\n<BR /> Sat - Mostly Cloudy. High: 60Low: 46\n<BR /> Sun - Cloudy. High: 59Low: 49\n<BR /> Mon - Partly Cloudy. High: 55Low: 43\n<BR /> Tue - Mostly Cloudy. High: 57Low: 40\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-615702/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
